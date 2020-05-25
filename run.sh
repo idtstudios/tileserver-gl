@@ -29,7 +29,7 @@ export DISPLAY=:${displayNumber}.${screenNumber}
 
 echo
 cd /data
-node /usr/src/app/ -p 80 -c /usr/src/app/config.json "$@" &
+node /usr/src/app/ -p 80 -c /usr/src/app/"$DATATYPE"-config.json "$@" &
 child=$!
 wait "$child"
 

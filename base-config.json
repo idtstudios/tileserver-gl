@@ -1,0 +1,21 @@
+{
+"options": {
+  "paths": {
+  "root": "/usr/src/app/node_modules/tileserver-gl-styles",
+  "fonts": "/data",
+  "styles": "/data",
+  "mbtiles": "/data"
+  },
+  "serveAllStyles": true,
+  "serveAllFonts": false,
+  "serveStaticMaps": true,
+  "minRendererPoolSizes": [16, 8, 6],
+  "maxRendererPoolSizes": [16, 8, 6]
+},
+"styles": {},
+  "data": {
+    "test": {
+      "mbtiles": "test.mbtiles"
+    }
+  }
+}
