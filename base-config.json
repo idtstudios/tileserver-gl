@@ -14,15 +14,6 @@
 },
 "styles": {},
 "data": {
-  "overlay_world_counties": {
-  "mbtiles": "overlay_world_counties.mbtiles"
-  },
-  "overlay_world_countries": {
-  "mbtiles": "overlay_world_countries.mbtiles"
-  },
-  "overlay_world_states": {
-  "mbtiles": "overlay_world_states.mbtiles"
-  },
   "world_counties": {
   "mbtiles": "world_counties.mbtiles"
   },
@@ -32,8 +23,8 @@
   "world_lakes": {
   "mbtiles": "world_lakes.mbtiles"
   },
-  "world_roads": {
-  "mbtiles": "world_roads.mbtiles"
+  "north_america_roads": {
+  "mbtiles": "north_america_roads.mbtiles"
   },
   "world_states": {
   "mbtiles": "world_states.mbtiles"
