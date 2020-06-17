@@ -9,6 +9,7 @@
   "serveAllStyles": true,
   "serveAllFonts": false,
   "serveStaticMaps": true,
+  "serveAllData": true,
   "minRendererPoolSizes": [16, 8, 6],
   "maxRendererPoolSizes": [16, 8, 6]
 },
